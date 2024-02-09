@@ -1,0 +1,2 @@
+# Login-Page-Linked-With-Signup-Page-Forget-Password-with-Python-MySQL-Project
+This project demonstrates proficiency in Python programming, database management with MySQL, and the implementation of essential features for a secure and robust authentication system. It serves as an excellent learning opportunity for aspiring developers to understand the fundamentals of user authentication and data security in web applications.
